@@ -5,6 +5,7 @@ import Home from './routes/Home';
 import Contact from './routes/Contact';
 import Service from './routes/Service';
 import About from './routes/About';
+import { BrowserRouter } from "react-router-dom";
 
 export default function App() {
   return (
