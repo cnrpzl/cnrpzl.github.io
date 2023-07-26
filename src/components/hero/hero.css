@@ -86,7 +86,7 @@ a{
     }
 }
 
-@media screen and (max-height: 750px){
+@media screen and (max-height: 550px){
     .hero-text{
         display: none;
     }
